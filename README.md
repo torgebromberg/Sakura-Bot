@@ -1,0 +1,2 @@
+# Sakura-Bot
+Term/Privacy
