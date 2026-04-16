@@ -67,4 +67,4 @@ The Bot is provided without warranties of any kind, express or implied, includin
 These Terms may be updated from time to time. Continued use of the Bot after changes are posted constitutes acceptance of the updated Terms.
 
 12. Contact
-If you have questions about these Terms, contact: torge.bromber@gmail.com
+If you have questions about these Terms, contact: torge.bromberg@gmail.com
